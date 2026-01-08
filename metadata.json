@@ -1,0 +1,5 @@
+{
+  "name": "Snap2Sheet - OCR to Spreadsheet",
+  "description": "Upload images of documents, receipts, or tables. The AI extracts the text and organizes it into a structured table ready for export to Google Sheets or Excel.",
+  "requestFramePermissions": []
+}
